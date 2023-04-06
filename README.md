@@ -20,3 +20,9 @@
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/81684148/223900756-d2204a35-379c-42f3-9217-fb14d52b4355.gif"/>
 </div>
+</br>
+4. 23.03.13_FPS Weapon_AK47 추가 1</br>
+   commit - Weapon 추가 및 애니메이션 없이 총알 발사 </br>
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/81684148/224588465-370d125f-a56b-4a73-9159-aae3421678ab.gif"/>
+</div>
