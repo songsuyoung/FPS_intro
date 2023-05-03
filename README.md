@@ -26,3 +26,13 @@
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/81684148/224588465-370d125f-a56b-4a73-9159-aae3421678ab.gif"/>
 </div>
+
+</br>
+5. 23.04.06/13/14 - 23.05.02_최근 개발까지 업데이트</br>
+   4/6 commit - add a Crouching Animation </br>
+   4/13 commit - 총알 sound 추가 및 자연스러운 연출 표현 </br>
+   4/14 commit - 총 카메라 설정 </br>
+   5/2 commit - 총알 이벤트 추가 및 발사 버그 픽스, FPS Hub 수정 </br>
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/81684148/235580787-08dbdc86-d78c-41e7-898d-1e01fe384349.gif"/>
+</div>
