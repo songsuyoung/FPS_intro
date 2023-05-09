@@ -36,3 +36,9 @@
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/81684148/235580787-08dbdc86-d78c-41e7-898d-1e01fe384349.gif"/>
 </div>
+</br>
+4. 23.05.04_FPS 총알 장전 애니메이션</br>
+   commit - 총알 장전 애니메이션 & 총알 장전 버그 fix </br>
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/81684148/236072804-e608882f-4496-45c2-9946-035b86bc3e48.gif"/>
+</div>
