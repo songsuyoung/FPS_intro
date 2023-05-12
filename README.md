@@ -42,3 +42,17 @@
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/81684148/236072804-e608882f-4496-45c2-9946-035b86bc3e48.gif"/>
 </div>
+
+</br>
+5. 23.05.09_총알 줍기/crosshair 설정</br>
+   commit - 총알 줍기 및 십자선 애니메이션 설정</br>
+<div align="center">
+	<img src="https://github.com/songsuyoung/FPS_intro/assets/81684148/4007fb89-fe99-4b5d-9d89-c26b00153f29.gif"/>
+</div>
+</br>
+6. 23.05.11_AI 설정</br>
+   commit - AI 총 쏠때, 시간에 플레이어가 존재할 때 이동, crosshair fix</br>
+<div align="center">
+	<img src="https://github.com/songsuyoung/FPS_intro/assets/81684148/c4b19124-cdc7-4541-ac0d-6c37ce42df6f.gif"/>
+</div>
+
