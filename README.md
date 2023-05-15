@@ -56,3 +56,9 @@
 	<img src="https://github.com/songsuyoung/FPS_intro/assets/81684148/c4b19124-cdc7-4541-ac0d-6c37ce42df6f.gif"/>
 </div>
 
+</br>
+7. 23.05.12_AI 시야 폭 설정 및 플레이어 움직임 버그 수정</br>
+   commit - 플레이어 이동시 너무 흔들리는 버그 수정, AI 플레이어 근처에 있음 인식하여 움직이도록 설정</br>
+<div align="center">
+	<img src="https://github.com/songsuyoung/FPS_intro/assets/81684148/c5cc2f06-54aa-48df-8b6e-c75f81760062.gif"/>
+</div>
