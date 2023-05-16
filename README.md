@@ -62,3 +62,11 @@
 <div align="center">
 	<img src="https://github.com/songsuyoung/FPS_intro/assets/81684148/c5cc2f06-54aa-48df-8b6e-c75f81760062.gif"/>
 </div>
+
+</br>
+7. 23.05.17_카메라 Minimap 설정 및 이름 등장 Animation</br>
+   commit - UI 꾸미기 </br>
+   commit - 카메라 Minimap 및 애니메이션 </br>
+<div align="center">
+	<img src="https://github.com/songsuyoung/FPS_intro/assets/81684148/59a83480-3b13-446c-8b21-4520ee3a0b77)ung/FPS_intro/assets/81684148/c5cc2f06-54aa-48df-8b6e-c75f81760062.gif"/>
+</div>
